@@ -1,2 +1,2 @@
 # Devrx-Ruman-App
- Devrx My Own Portfolio Website Copy in React Bricks
+ Devrx My Own Portfolio Website Copy in React Bricks.
